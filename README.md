@@ -1,6 +1,6 @@
 # Dress Code Data Exploratory Analysis
 
-These dataset comes from an analysis of 481 high school dress code policies in the United States, originally collected by The Pudding in 2019. 
+These dataset comes from an analysis of 481 high school dress code policies in the United States, originally collected by The Pudding in 2019. Data source link : https://data.world/the-pudding/dress-codes
 
 The first data set is entitled clothes_percentages.csv and the second I will be using is called banned_items.csv.
 
